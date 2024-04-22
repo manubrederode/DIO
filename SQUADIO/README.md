@@ -1,11 +1,11 @@
 ## 💻Bootcamp Coding The Future Squadio - Python Data Analytics
 
-Intermediário
-68 hrs
+:clock2: 68hrs
+:books: Intermediário
 
 Num mundo data-driven quem sabe manipular e apresentar dados comanda!
 
-Bootcamp Coding The Future Squadio - Python Data Analytics tem o objetivo de ensinar a manipular, gerenciar e apresentar grandes massas de dados através de habilidades práticas para construir dashboards funcionais.
+Bootcamp Coding The Future Squadio - Python :snake: Data Analytics tem o objetivo de ensinar a manipular, gerenciar e apresentar grandes massas de dados através de habilidades práticas para construir dashboards funcionais.
 
 Aprender o processo de instalação, conceitos de funções Python e os seus principais comandos, dar os primeiros passos em noções importantes de base de dados relacionais e não relacionais (SQL e noSQL) e aprender a integrar esse conhecimento ao Power BI, uma poderosa ferramenta de tratamento e visualização de dados.
 
