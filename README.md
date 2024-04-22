@@ -5,7 +5,7 @@ Repository to store [Digital Innovation One](https://www.dio.me/) projects.
 ## 💻Bootcamps DIO
 | Bootcamp | Path |
 |-------|---------|
-| Coding The Future Squadio - Python Data Analytics | [SQUADIO]() |
+| Coding The Future Squadio - Python Data Analytics | [SQUADIO](SQUADIO) |
 
 
 ## 📚 Documentations
