@@ -19,15 +19,15 @@ Lista de itens:
 """
 #Solução
 
-# Lista vazia para armazenar os itens
+#Lista vazia para armazenar os itens
 itens = []
 
-#TODO: Solicite os itens ao usuário
+#Solicite os itens ao usuário
 for item in range(3):
     tools = input()
     itens.append(tools)
 
-# Exibe a lista de itens
+#Exibe a lista de itens
 print("Lista de itens:")
 for item in itens:
     print(f"- {item}")

@@ -11,7 +11,7 @@ Saída
 O programa deve imprimir uma mensagem indicando o progresso do explorador na floresta. Utilize um laço de repetição para simular os passos do explorador. A cada passo, imprima uma mensagem informando a distância percorrida até o momento.
 """
 
-#TODO: Adicione uma condição para verificar se a quantidade de passos é positiva.
+#Adicione uma condição para verificar se a quantidade de passos é positiva.
 #Se a quantidade de passos for zero, imprima "Nenhum passo dado na floresta."
 #Caso contrário, utilize um loop for para imprimir a mensagem do explorador, indicando o número do passo.
 
