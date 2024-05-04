@@ -14,3 +14,5 @@ Repository to store [Digital Innovation One](https://www.dio.me/) projects.
 - [Github Documentation](https://docs.github.com/pt)
 - [Python](https://docs.python.org/3/)
 - [Power BI](https://learn.microsoft.com/en-us/power-bi/)
+- [.Net](https://learn.microsoft.com/en-us/dotnet/)
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
