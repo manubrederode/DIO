@@ -14,3 +14,10 @@ Aprender o processo de instalação, conceitos de funções Python e os seus pri
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
 </div>
+
+## 💻Repositories Squadio - Python Data Analytics
+| Repositories | Path |
+|-------|---------|
+| Python Challenges | [SQUADIO](https://github.com/manubrederode/dio-squadio-python) |
+| Coding The Future Avanade - .Net Developer | [Power BI](https://github.com/manubrederode/dio-squadio-powerbi) |
+
