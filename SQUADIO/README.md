@@ -18,5 +18,5 @@ Aprender o processo de instalação, conceitos de funções Python e os seus pri
 ## 💻Repositories Squadio - Python Data Analytics
 | Repositories | Path |
 |-------|---------|
-| Python Challenges | [SQUADIO](https://github.com/manubrederode/dio-squadio-python) |
-| Coding The Future Avanade - .Net Developer | [Power BI](https://github.com/manubrederode/dio-squadio-powerbi) |
+| Python Challenges | [Python](https://github.com/manubrederode/dio-squadio-python) |
+| Power BI Challenges | [Power BI](https://github.com/manubrederode/dio-squadio-powerbi) |
