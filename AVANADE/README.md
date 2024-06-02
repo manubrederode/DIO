@@ -19,8 +19,11 @@ Estudar os fundamentos de .NET e C# e aprender a principal stack de desenvolvime
 | Repositories | Path |
 |-------|---------|
 | Fundamentos .NET | [Fundamentos](https://github.com/manubrederode/dio-avanade-dotnet-fundamentos) |
+| Desafios de Código I | [I](https://github.com/manubrederode/dio-avanade-desafiocodigo1) |
 | Explorando a linguagem C# | [Hospedagem](https://github.com/manubrederode/dio-avanade-dotnet-hospedagem) |
+| Desafios de Código II | [II](https://github.com/manubrederode/dio-avanade-desafiocodigo2) |
 | Orientação a Objetos .NET | [POO](https://github.com/manubrederode/dio-avanade-dotnet-poo) |
+| Desafios de Código III | [III](https://github.com/manubrederode/dio-avanade-desafiocodigo3) |
 | Banco de Dados | [Banco de Dados](https://github.com/manubrederode/dio-avanade-dotnet-bancodados) |
 | API e Entity Framework | [API](https://github.com/manubrederode/dio-avanade-dotnet-api) |
 | Testes Unitários com C# | [Testes Unitários](https://github.com/manubrederode/dio-avanade-dotnet-testes-unitarios) |
