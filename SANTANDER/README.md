@@ -20,7 +20,15 @@ Grade completa:
   <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
 </div>
 
-## 💻Repositories Santander - Backend com Java
+## 💻Repositories Santander - Backend com Java (em processo)
 | Repositories | Path |
 |-------|---------|
-| X | [x]() |
+| Conta Bancária | [Simulação](https://github.com/manubrederode/dio-santander-conta-bancaria/) |
+| Validação Processo Seletivo | [Sistema]() |
+| Desafios de Código | [Java]() |
+| Modelando o iPhone com UML | [iPhone]() |
+| Banco Digital | [x]() |
+| Abstraindo um Bootcamp | [x]() |
+| Desafios de Código | [OOP]() |
+| Design Patterns com Java | [x]() |
+| API Rest | [x]() |
