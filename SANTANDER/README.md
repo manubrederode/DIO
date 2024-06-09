@@ -24,8 +24,8 @@ Grade completa:
 | Repositories | Path |
 |-------|---------|
 | Conta Bancária | [Simulação](https://github.com/manubrederode/dio-santander-conta-bancaria/) |
-| Validação Processo Seletivo | [Sistema]() |
-| Desafios de Código | [Java]() |
+| Validação Processo Seletivo | [Sistema](https://github.com/manubrederode/dio-santander-processo-seletivo) |
+| Desafios de Código | [Java](https://github.com/manubrederode/dio-santander-desafio-codigo) |
 | Modelando o iPhone com UML | [iPhone]() |
 | Banco Digital | [x]() |
 | Abstraindo um Bootcamp | [x]() |
