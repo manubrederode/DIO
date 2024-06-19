@@ -2,12 +2,18 @@
 
 Repository to store [Digital Innovation One](https://www.dio.me/) projects.
 
-## 💻Bootcamps DIO
+## 💻 Bootcamps DIO
 | Bootcamp | Path |
 |-------|---------|
 | Coding The Future Squadio - Python Data Analytics | [SQUADIO](SQUADIO) |
 | Coding The Future Avanade - .Net Developer | [AVANADE](AVANADE) |
 | Coding The Future Santander - Backend com Java | [SANTANDER](SANTANDER) |
+
+## :trophy: Certificates DIO
+
+![Python Certificate](https://github.com/manubrederode/DIO/assets/106559514/2f289532-b4e5-459c-9160-9c8601be6c0c)
+
+![.Net Certificate](https://github.com/manubrederode/DIO/assets/106559514/9bda5a12-6e19-41cd-907d-7e25477d4d20)
 
 ## 📚 Documentations
 - [Git documentation](https://git-scm.com/doc)
