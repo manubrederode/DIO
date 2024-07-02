@@ -25,3 +25,4 @@ Repository to store [Digital Innovation One](https://www.dio.me/) projects.
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [SQL Server](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
 - [Entity Framework](https://learn.microsoft.com/en-us/ef/) , [EF Tutorial](https://www.entityframeworktutorial.net/)
+- [JUnit](https://junit.org/junit5/docs/current/user-guide/)
