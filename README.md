@@ -8,6 +8,7 @@ Repository to store [Digital Innovation One](https://www.dio.me/) projects.
 | Coding The Future Squadio - Python Data Analytics | [SQUADIO](SQUADIO) |
 | Coding The Future Avanade - .Net Developer | [AVANADE](AVANADE) |
 | Coding The Future Santander - Backend com Java | [SANTANDER](SANTANDER) |
+| Coding The Future Vivo - Python AI Backend Developer | [VIVO]()|
 
 ## :trophy: Certificates DIO
 
