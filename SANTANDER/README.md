@@ -27,7 +27,7 @@ Grade completa:
 | Validação Processo Seletivo | [Sistema](https://github.com/manubrederode/dio-santander-processo-seletivo) |
 | Desafios de Código | [Java](https://github.com/manubrederode/dio-santander-desafio-codigo) |
 | Modelando o iPhone com UML | [iPhone]() |
-| Banco Digital | [x]() |
+| Banco Digital | [Bank](https://github.com/manubrederode/dio-santander-banco-digital-oop) |
 | Abstraindo um Bootcamp | [x]() |
 | Desafios de Código | [OOP]() |
 | Design Patterns com Java | [x]() |
