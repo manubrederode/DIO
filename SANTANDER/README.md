@@ -26,9 +26,9 @@ Grade completa:
 | Conta Bancária | [Simulação](https://github.com/manubrederode/dio-santander-conta-bancaria/) |
 | Validação Processo Seletivo | [Sistema](https://github.com/manubrederode/dio-santander-processo-seletivo) |
 | Desafios de Código | [Java](https://github.com/manubrederode/dio-santander-desafio-codigo) |
-| Modelando o iPhone com UML | [iPhone]() |
+| Modelando o iPhone com UML | [iPhone](https://github.com/manubrederode/dio-santander-iphone) |
 | Banco Digital | [Bank](https://github.com/manubrederode/dio-santander-banco-digital-oop) |
 | Abstraindo um Bootcamp | [Bootcamp](https://github.com/manubrederode/dio-santander-bootcamp-oop) |
-| Desafios de Código | [OOP]() |
-| Design Patterns com Java | [x]() |
-| API Rest | [x]() |
+| Desafios de Código | [OOP](https://github.com/manubrederode/dio-santander-desafio-codigo-2) |
+| Design Patterns com Java | [GoF](https://github.com/manubrederode/dio-santander-design-patterns) |
+| API Rest | [Aoi](https://github.com/manubrederode/dio-santander-projeto-api-rest) |
