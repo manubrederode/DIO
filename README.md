@@ -9,6 +9,7 @@ Repository to store [Digital Innovation One](https://www.dio.me/) projects.
 | Coding The Future Avanade - .Net Developer | [AVANADE](AVANADE) |
 | Coding The Future Santander - Backend com Java | [SANTANDER](SANTANDER) |
 | Coding The Future Vivo - Python AI Backend Developer | [VIVO](VIVO)|
+| Cognizant - Arquitetura com Spring Boot e Cloud | [Cognizant](COGNIZANT)|
 
 ## :trophy: Certificates DIO
 
