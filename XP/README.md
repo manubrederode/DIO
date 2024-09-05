@@ -13,3 +13,9 @@ Domine a criação de aplicações web de ponta a ponta com .NET e React e evolu
   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg">
 </div>
+
+## 💻Repositories XP
+| Repositories | Path |
+|-------|---------|
+| Minimal API | [API](https://github.com/manubrederode/dio-xp-minimal-api) |
+| Calculator with REACT | [Calculator](https://github.com/manubrederode/dio-xp-calculator) |
