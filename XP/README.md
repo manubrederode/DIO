@@ -19,3 +19,6 @@ Domine a criação de aplicações web de ponta a ponta com .NET e React e evolu
 |-------|---------|
 | Minimal API | [API](https://github.com/manubrederode/dio-xp-minimal-api) |
 | Calculator with REACT | [Calculator](https://github.com/manubrederode/dio-xp-calculator) |
+| Git Find with REACT | [GitFind](https://github.com/manubrederode/dio-xp-react-gitfind) |
+
+
