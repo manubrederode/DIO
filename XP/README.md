@@ -21,5 +21,7 @@ Domine a criação de aplicações web de ponta a ponta com .NET e React e evolu
 | Calculator with REACT | [Calculator](https://github.com/manubrederode/dio-xp-calculator) |
 | Git Find with REACT | [GitFind](https://github.com/manubrederode/dio-xp-react-gitfind) |
 | Github Wiki with REACT | [GitWiki](https://github.com/manubrederode/dio-xp-react-github-wiki) |
+| Plataforma Dio com React | [Dio](https://github.com/manubrederode/dio-xp-react-project-dio) |
+
 
 
